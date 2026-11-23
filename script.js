@@ -40,7 +40,7 @@ player.addEventListener('ended', () => {
   ativo = null;
 });
 
-const musicaConvite = new Audio('arquivos/final-feliz.mp3');
+const musicaConvite = new Audio('arquivos/Final feliz.mp3');
 const btnConvite = document.getElementById('abrirConvite');
 const mensagemConvite = document.getElementById('mensagemConvite');
 
